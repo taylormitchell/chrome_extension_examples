@@ -1,0 +1,20 @@
+{
+    "name": "Copy title",
+    "version": "1.0",
+    "description": "Copy title",
+    "permissions": ["activeTab", "storage"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "commands": {
+     "toggle-feature-foo": {
+       "suggested_key": {
+         "default": "Ctrl+Shift+Y",
+         "mac": "Command+Shift+Y"
+       },
+       "description": "Toggle feature foo"
+     }
+    },
+    "manifest_version": 2
+}
