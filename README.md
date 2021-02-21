@@ -1,5 +1,7 @@
 # Chrome Extension Examples
 
+A collection of basic chrome extensions to use for reference.
+
 ## Examples
 
 getting_started_tutorial: https://developer.chrome.com/extensions/getstarted
